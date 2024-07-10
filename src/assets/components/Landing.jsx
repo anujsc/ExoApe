@@ -8,7 +8,7 @@ function Landing() {
       <div className=" w-full h-full overflow-hidden ">
         <img data-scroll data-scroll-speed="-1" 
           className=" h-full w-full object-cover"
-          src="src/Photos/landingpage.webp"
+          src="../src/Photos/landingpage.webp"
           alt=""
         />
       </div>
