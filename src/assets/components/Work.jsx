@@ -45,7 +45,7 @@ function Work() {
           initial={{opacity: 1}}
           whileHover={{opacity:0}}
             className=" hidden md:block z-[2] md:h-[800px] md:w-[630px] md:ml-[29vh] absolute "
-            src="src/Photos/work-1.webp"
+            src="https://a.storyblok.com/f/133769/2400x2990/540fb12941/columbia-pictures-thumbnail.jpg/m/1300x1620/filters:quality(90)"
             alt=""
           />
           <video
@@ -53,7 +53,7 @@ function Work() {
             autoPlay
             loop
             muted
-            src="src/Photos/work-1-v.mp4"
+            src="https://player.vimeo.com/progressive_redirect/playback/927016456/rendition/720p/file.mp4?loc=external&log_user=0&signature=270ce5ba6bf44a717c74cf85de5f3de1d33a36ba5205b660e5e23b873199d71a"
           ></video>
         </div>
         <motion.div
@@ -76,7 +76,7 @@ function Work() {
           initial={{opacity: 1}}
           whileHover={{opacity:0}}
             className=" hidden  md:z-[2] md:block md:h-[70vh] md:translate-x-[135vh] md:translate-y-[9vh] md:absolute  "
-            src="src/Photos/work-2.webp"
+            src="https://a.storyblok.com/f/133769/2400x2990/b66359da25/rino-pelle-hero.jpg/m/1300x1620/filters:quality(90)"
             alt=""
           />
           <video
@@ -84,7 +84,7 @@ function Work() {
             autoPlay
             loop
             muted
-            src="src/Photos/work-2-v.mp4"
+            src="https://player.vimeo.com/progressive_redirect/playback/914798484/rendition/720p/file.mp4?loc=external&log_user=0&signature=666d8099e0f1361eb1766ec0592b63a9bdf2b303cdb12ddfa5789d20ce8f523b"
           ></video>
         </div>
         <motion.div
@@ -105,7 +105,7 @@ function Work() {
           initial={{opacity: 1}}
           whileHover={{opacity:0}}
             className=" hidden z-[2] md:block w-[75vh] md:absolute translate-x-[85vh]  translate-y-[52vh]"
-            src="src/Photos/work-3.webp"
+            src="https://a.storyblok.com/f/133769/2400x2990/3e8f8d08f7/aebele-interiors-hero.jpg/m/1300x1620/filters:quality(90)"
             alt=""
           />
           <video
@@ -113,7 +113,7 @@ function Work() {
             autoPlay
             loop
             muted
-            src="src/Photos/work-3-v.mp4"
+            src="https://player.vimeo.com/progressive_redirect/playback/914796979/rendition/540p/file.mp4?loc=external&log_user=0&signature=57ac30ff6fc3b29802f7414617e808395306f0b0fa5c9c6e3ef483a532f49c15"
           ></video>
         </div>
         <motion.div
@@ -136,7 +136,7 @@ function Work() {
           initial={{opacity: 1}}
           whileHover={{opacity:0}}
             className=" hidden z-[2] md:block md:w-[42vh] translate-x-[25vh] translate-y-[57vh] md:absolute "
-            src="src/Photos/work-4.webp"
+            src="https://a.storyblok.com/f/133769/2400x2990/20d07e6f0c/pixelflakes-hero.jpg/m/1300x1620/filters:quality(90)"
             alt=""
           />
           <video
@@ -144,7 +144,7 @@ function Work() {
             autoPlay
             loop
             muted
-            src="src/Photos/work-4-v.mp4"
+            src="https://player.vimeo.com/progressive_redirect/playback/914798271/rendition/720p/file.mp4?loc=external&log_user=0&signature=2af493277d050009920c26416a8d62a9a8c316353242c609ee157fcf1e300076"
           ></video>
         </div>
         <motion.div

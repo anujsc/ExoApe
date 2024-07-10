@@ -46,7 +46,7 @@ function Slide() {
       <div className="h-full w-full flex justify-center absolute top-[20vh] md:top-[30vh]  ">
         <img 
           className=" w-[134px] h-[226px] md:h-[100vh] md:w-[55vh] "
-          src="src/Photos/slide-3.webp"
+          src="https://a.storyblok.com/f/133769/748x1278/5784aa7150/home-news-1.jpg/m/1200x2050/filters:quality(90)"
           alt=""
         />
       </div>
@@ -61,12 +61,12 @@ function Slide() {
           muted
           loop
           className=" w-[132px] md:w-[58vh]"
-          src="src/Photos/slide-v-1.mp4"
+          src="https://a.storyblok.com/f/133769/x/9c433c7aac/home-news-diesel-be-a-follower.mp4"
         ></video>
       </div>
 
       <div className=" absolute top-[52vh] md:top-[66%] left-[-1vh] md:left-[18%] h-full w-full ">
-        <img ref={img3} className=" w-[125px] md:w-[55vh]" src="src/Photos/slide-2.webp" alt="" />
+        <img ref={img3} className=" w-[125px] md:w-[55vh]" src="https://a.storyblok.com/f/133769/758x508/8a1ff60d00/home-news-4.jpg/m/1200x804/filters:quality(90)" alt="" />
       </div>
 
       <div className=" absolute top-[52vh] md:top-[60%] left-[40vh] md:left-[57%] h-full w-full ">
@@ -75,7 +75,7 @@ function Slide() {
           muted
           loop
           className=" scale-[1.2] w-[90px] md:w-[47vh] md:h-[80vh] "
-          src="src/Photos/slide-v-2.mp4"
+          src="https://a.storyblok.com/f/133769/x/88b4bf7989/news-rino-pelle.mp4"
         ></video>
       </div>
 
