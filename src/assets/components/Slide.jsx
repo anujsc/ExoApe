@@ -52,7 +52,7 @@ function Slide() {
       </div>
 
       <div className=" absolute h-full w-full top-[23vh] left-[36vh] md:top-[40vh] md:left-[60%] ">
-        <img ref={img1} className=" w-[70.03px] md:w-[25vh]" src="src/Photos/slide-1.webp" alt="" />
+        <img ref={img1} className=" w-[70.03px] md:w-[25vh]" src="https://a.storyblok.com/f/133769/348x494/21becfd449/home-news-3.jpg/m/1200x1703/filters:quality(90)" alt="" />
       </div>
 
       <div className=" absolute top-[33vh] md:top-[58vh] h-full w-full left-[2vh] md:left-[15.6%] ">
