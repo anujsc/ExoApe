@@ -2,9 +2,9 @@ import React from "react";
 
 function Spread() {
   return (
-    <div>
+    <div className=" h-[80vh]">
       <div className="">
-        <div  data-scroll data-scroll-speed=".2" className="svg justify-center flex gap-2 ">
+        <div  data-scroll data-scroll-speed=".05" className="svg justify-center flex gap-2 ">
           <svg
             viewBox="0 0 12 12"
             fill="none"
@@ -21,13 +21,13 @@ function Spread() {
           <p className=" text-[2.5vh] tracking-tight ">In the media</p>
         </div>
 
-        <div className=" text-center text-[9vh] md:text-[24vh] leading-[7vh]  md:leading-[15vh] tracking-tighter py-[4vh]">
-          <h1 data-scroll data-scroll-speed=".2" >Spread</h1>
-          <h1 data-scroll data-scroll-speed=".2">the News</h1>
+        <div className=" text-center text-[9vh] md:text-[24vh] leading-[7vh]  md:leading-[18vh] tracking-tighter py-[4vh]">
+          <h1 data-scroll data-scroll-speed=".05" >Spread</h1>
+          <h1 data-scroll data-scroll-speed=".05">the News</h1>
         </div>
 
         <div className=" flex justify-center">
-          <p data-scroll data-scroll-speed=".2" className=" w-[42vh] md:w-[70vh] text-center mt-2 md:mt-[6vh] md:text-[3.3vh] md:tracking-tighter md:leading-7">
+          <p data-scroll data-scroll-speed=".05" className=" w-[42vh] md:w-[70vh] text-center mt-2 md:mt-[6vh] md:text-[3.3vh] md:tracking-tighter md:leading-7">
             Find out more about our work on these leading design and technology
             platforms.
           </p>
@@ -35,7 +35,7 @@ function Spread() {
 
         <div className=" w-full flex justify-center mt-8 md:mt-[6vh]">
         <div className=" w-fit text-center text-[2.7vh] capitalize tracking-tight font-medium opacity-85">
-            <p data-scroll data-scroll-speed=".2" className=" border-b border-black">Browse all news</p>
+            <p data-scroll data-scroll-speed=".05" className=" border-b border-black">Browse all news</p>
         </div>
         </div>
 

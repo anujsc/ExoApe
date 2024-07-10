@@ -5,7 +5,7 @@ import { MdMenu } from "react-icons/md";
 
 function Nav() {
   return (
-    <div className=" w-full fixed z-[999]">
+    <div className=" w-full absolute z-[999]">
       <div className=" text-white max-w-screen-2xl  px-5 py-5 md:py-10 md:px-12 flex items-center justify-between ">
         <motion.div
           initial={{ opacity: 0 }}
