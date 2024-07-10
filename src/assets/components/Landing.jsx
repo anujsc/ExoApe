@@ -8,7 +8,7 @@ function Landing() {
       <div className=" w-full h-full overflow-hidden ">
         <img data-scroll data-scroll-speed="-1" 
           className=" h-full w-full object-cover"
-          src="../src/Photos/landingpage.webp"
+          src="https://a.storyblok.com/f/133769/1920x2716/5c24d6b467/exo-ape-hero-1.jpg/m/2400x3395/filters:quality(90)"
           alt=""
         />
       </div>
