@@ -5,7 +5,7 @@ function Footer() {
     <div className="footer md:overflow-hidden">
       <div
         data-scroll
-        data-scroll-speed="-.5"
+        data-scroll-speed="-1"
         className=" hidden md:block md:overflow-hidden h-[110vh] w-full"
       >
         <div className=" relative text-[#e0ccbb] h-screen w-screen bg-[#070707]">
