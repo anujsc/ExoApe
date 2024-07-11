@@ -18,6 +18,7 @@ function App() {
   const locomotiveScroll = new LocomotiveScroll();
   const cur = useRef(null);
   const foo = useRef(null);
+
   const [first, setfirst] = useState({
     x: 0,
     y: 0,
@@ -43,8 +44,6 @@ function App() {
       opacity: 1,
     });
   };
-  
-  
 
   useEffect(() => {
     const mouse = (e) => {
@@ -72,12 +71,8 @@ function App() {
       <Work />
       <Playreel />
       <Slide />
-      <div>
-        <Spread />
-      </div>
-      <div ref={foo} onMouseLeave={()=>foocur1()} onMouseEnter={() => foocur()}>
-        <Footer />
-      </div>
+      <Spread />
+      <Footer />
     </div>
   );
 }
