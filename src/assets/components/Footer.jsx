@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className=" overflow-hidden h-full w-full">
+    <div className=" hidden md:block overflow-hidden h-full w-full">
       <div
         data-scroll
         data-scroll-speed="-1"

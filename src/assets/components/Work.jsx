@@ -61,7 +61,7 @@ function Work() {
             opacity: 100,
             transition: { duration: 1.5, transition: "cubicBezier" },
           }}
-          className="text-1 w-full mt-[6vh] md:opacity-0 font-medium tracking-tight md:translate-x-[29vh] md:translate-y-[57vh] md:absolute "
+          className="text-1 w-full mt-[9vh] md:opacity-0 font-medium tracking-tight md:translate-x-[29vh] md:translate-y-[57vh] md:absolute "
         >
           <p className=" text-[2.3vh] ">Coloumbia Pictures</p>
           <p className=" text-[1.8vh] opacity-50">
@@ -92,7 +92,7 @@ function Work() {
             opacity: 100,
             transition: { duration: 1.5, transition: "cubicBezier" },
           }}
-          className="text-2 w-full mt-[6vh] md:opacity-0 font-medium tracking-tight md:translate-x-[135vh] md:translate-y-[24vh] md:absolute "
+          className="text-2 w-full mt-[9vh] md:opacity-0 font-medium tracking-tight md:translate-x-[135vh] md:translate-y-[24vh] md:absolute "
         >
           <p className=" text-[2.3vh] ">Rino & Pelle</p>
           <p className=" text-[1.8vh] opacity-50">Effortless chic Lifestyle</p>
@@ -121,7 +121,7 @@ function Work() {
             opacity: 100,
             transition: { duration: 1.5, transition: "cubicBezier" },
           }}
-          className="text-3  md:opacity-0 mt-[6vh] font-medium tracking-tight md:absolute w-full md:translate-x-[85vh]  md:translate-y-[90vh] "
+          className="text-3  md:opacity-0 mt-[9vh] font-medium tracking-tight md:absolute w-full md:translate-x-[85vh]  md:translate-y-[90vh] "
         >
           <p className=" text-[2.3vh] ">Aebele Interios </p>
           <p className=" text-[1.8vh] opacity-50">
@@ -155,7 +155,7 @@ function Work() {
               transition: "cubicBezier(0.86, 0, 0.07, 1)",
             },
           }}
-          className="text-4 w-full mt-[6vh] opacity-100 font-medium tracking-tight md:opacity-0 md:translate-x-[25vh] md:translate-y-[54vh] absolute "
+          className="text-4 w-full mt-[9vh] opacity-100 font-medium tracking-tight md:opacity-0 md:translate-x-[25vh] md:translate-y-[54vh] absolute "
         >
           <p className=" text-[2.3vh] ">Pixilflakes</p>
           <p className=" text-[1.8vh] opacity-50">

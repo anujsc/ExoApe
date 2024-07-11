@@ -5,3 +5,8 @@
 body{
     overflow-x: hidden;
 }
+
+.cursor{
+    backdrop-filter: blur(10px);
+    background-color: rgba(255, 255, 255, 0.258);
+}

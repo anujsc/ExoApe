@@ -3,6 +3,7 @@ import React from "react";
 import { MdOpacity } from "react-icons/md";
 
 function Landing() {
+  
   return (
     <div className="realtive w-full h-[150vh] md:h-[250vh] text-white">
       <div className=" w-full h-full overflow-hidden ">
@@ -37,14 +38,14 @@ function Landing() {
             })}
           </div>
 
-          <div className="mt-[5.8vh] md:mt-[13vh] text-[8.5vh] tracking-tighter md:font-medium  md:text-[36vh] font-medium leading-[8vh] md:leading-[30vh]">
+          <div className="mt-[5.8vh] md:mt-[13vh] text-[8.5vh] tracking-tighter md:font-medium  md:text-[30vh] font-medium leading-[8vh] md:leading-[29vh]">
           {[
               "Digital",
               "Design",
               "Experiences",
             ].map((item, index) => {
               return (
-                <p className=" overflow-hidden">
+                <p className=" overflow-hidden pb-[5vh] ">
                   <motion.span
                     className=" inline-block origin-left"
                     initial={{rotate:90, y: "40%", Opacity: 0 }}
